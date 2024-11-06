@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amy-caruana
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Blazor
-- 📫 How to reach me http://ac-portfolio.wuaze.com/
+- 📫 How to reach me: http://ac-portfolio.wuaze.com/
 - ⚡ Fun fact: I am a Formula 1 Fanatic :)
 
 <!---
