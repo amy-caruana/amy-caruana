@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amy-caruana
+- 👋 Welcome to my Github!
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Blazor
-- 📫 How to reach me: http://ac-portfolio.wuaze.com/
+- 📫 How to reach me: http://amy-caruana.github.io
 - ⚡ Fun fact: I am a Formula 1 Fanatic :)
 
 <!---
