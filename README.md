@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome!
 
 ## 🚀 About Me
 Hi there! I'm **Amy**, a passionate Full-Stack Developer with a keen interest in web and software development. Currently diving into **Blazor** to enhance my skill set and bring fresh ideas to life.
