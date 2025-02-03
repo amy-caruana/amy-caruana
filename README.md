@@ -1,7 +1,7 @@
 # 👋 Welcome!
 
 ## 🚀 About Me
-Hi there! I'm **Amy**, a passionate Full-Stack Developer with a keen interest in web and software development. Currently diving into **Blazor** to enhance my skill set and bring fresh ideas to life.
+Hi there! I am a passionate Full-Stack Developer with a keen interest in web and software development. Currently diving into **Blazor** to enhance my skill set and bring fresh ideas to life.
 
 ## 💻 What I Do
 - 🌱 I’m continually exploring new technologies and building projects.
